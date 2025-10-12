@@ -1,4 +1,40 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://morganmay.day'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'poison'
+title = 'Morgan Mayday'
+theme = 'hello-foe'
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  disableSitemap = true
+  # homeSubtitle = "It/its."
+
+[params.logo]
+    logoMark     = " "
+    logoText     = " "
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = true
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+    # Append the current url pathname to logoText
+    # logoCursorPathname = true
+
+[[params.social]]
+   name = "signal"
+   url = "https://signal.me/#eu/VrngTxjiG5Cla7e56gvjumMII0fqjvqxZW1dkB1yWziZMFCBrFVDI7WfqepHhUOW"
+
+[[params.social]]
+    name = "email"
+    url  = "mailto:me@morganmay.day"
+[[params.social]]
+    name = "discord"
+    url = "https://discord.com/users/505883869434740758"
+
+# [[params.social]]
+#     name = "github"
+#     url  = "https://github.com/morganmayday"
