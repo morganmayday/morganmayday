@@ -1,4 +1,4 @@
-baseURL = 'https://morganmay.day'
+baseURL = 'https://morganmay.day/'
 languageCode = 'en-us'
 title = 'Morgan Mayday'
 theme = 'hello-foe'

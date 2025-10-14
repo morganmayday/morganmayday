@@ -1,5 +1,6 @@
 +++
-draft = true
+draft = false
+date = 2025-10-13
 title = "On Agency, Manipulation, Coercion, and Abuse"
 author = "Morgan"
 +++
@@ -14,7 +15,7 @@ I'm looking out at the water. You're thinking about if you could leave without m
 Is that a bad thing?\
 No. That's how communication _works._ Honesty is a kind of manipulation. Manipulation can only work against you when it's either coercion in a hat or you're already against yourself.
 
-My colleague morrigan defines agency--or agency-adjacent, note for mori to check this cause i may have misfiled your definition--as a stable loop of desire. I find that definition a little opaque--let me distill it as best I can.\
+What is agency, though? Well, it gets defined a lot of ways, but I think it's best illustrated with this:\
 I have the ability to choose one thing over another, _including the values that lead me to make these choices._ Agency is the productive process of transmuting desire into action--into desire, as needed.
 
 Coercion is harmful because it seeks to halt that process. If you put a gun to someone's head, that's going to stop their desires from transmuting into action. Sometimes, agentic force can outweigh coercive force--this is why folk like me are harder to blackmail, because asking _"so what"_ can defang a lot of coercion. Where manipulation is sleight of hand, coercion is an active threat. "Do this, _or else._" Someone coercing you seeks to overwrite your agency using a deeper desire, like remaining alive or having friends or your loved ones being safe, to get you to take the actions they want you to take.
