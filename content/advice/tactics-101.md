@@ -1,9 +1,8 @@
 +++
-draft = true
+draft = false
 date = 2025-10-18
 title = "Tactics 101"
 author = "Morgan"
-tags = "Tactics"
 +++
 See, I say, you've heard "know thy enemy", played some chess, and read [Who's the Beatdown](https://articles.starcitygames.com/articles/whos-the-beatdown/) and now you have a basic grasp on strategy and tactics. But a "basic grasp" is only going to get you so far. Welcome to Tactics 101.
 
