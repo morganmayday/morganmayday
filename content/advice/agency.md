@@ -1,7 +1,7 @@
 +++
 draft = false
 date = 2025-10-13
-title = "On Agency, Manipulation, Coercion, and Abuse"
+title = "Agency, Manipulation, Coercion, and Abuse"
 author = "Morgan"
 +++
 I'm cracking the top of my can and sitting down next to you on the stormwall. Listen, honey, I tell you, and shift a bit to get comfortable, to explain this I'm gonna have to get kinda metaphorical. If you're not in a brainspace for a weird conversation, now's not the time.

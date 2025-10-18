@@ -2,13 +2,15 @@ baseURL = 'https://morganmay.day/'
 languageCode = 'en-us'
 title = 'Morgan Mayday'
 theme = 'hello-foe'
+pluralizeListTitles = false
+capitalizeListTitles = false
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  disableSitemap = true
+  disableSitemap = false
   # homeSubtitle = "It/its."
 
 [params.logo]
@@ -23,6 +25,9 @@ theme = 'hello-foe'
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText
     # logoCursorPathname = true
+
+[[params.author]]
+    name = "Morgan Mayday"
 
 [[params.social]]
    name = "signal"
