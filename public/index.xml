@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Morgan Mayday</title>
+    <title>Morgan Mayday</title>
     <link>https://morganmay.day/</link>
-    <description>Recent content in Index on Morgan Mayday</description>
+    <description>Recent content on Morgan Mayday</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://morganmay.day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives</title>
+      <link>https://morganmay.day/archives/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://morganmay.day/archives/</guid>
+      <description>&lt;p&gt;Hey there. Looking for something specific? List below should have it.&lt;/p&gt;&#xA;&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://morganmay.day/glossary&#34;&gt;Glossary&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://morganmay.day/advice&#34;&gt;All advice&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://morganmay.day/grimoire&#34;&gt;All grimoire pages&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;advice&#34;&gt;Advice&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://morganmay.day/advice/agency&#34;&gt;Agency, Manipulation, Coercion, and Abuse&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://morganmay.day/advice/tactics&#34;&gt;Tactics 101&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;grimoire&#34;&gt;Grimoire&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://morganmay.day/grimoire/dimensions&#34;&gt;Dimensions (unfinished post)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tactics 101</title>
       <link>https://morganmay.day/advice/tactics-101/</link>
@@ -21,6 +28,20 @@
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://morganmay.day/advice/agency/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m cracking the top of my can and sitting down next to you on the stormwall. Listen, honey, I tell you, and shift a bit to get comfortable, to explain this I&amp;rsquo;m gonna have to get kinda metaphorical. If you&amp;rsquo;re not in a brainspace for a weird conversation, now&amp;rsquo;s not the time.&lt;/p&gt;&#xA;&lt;p&gt;A lot of people consider manipulation a type of abuse. &amp;ldquo;You&amp;rsquo;re making someone act against their will,&amp;rdquo; well, yes and no. If the magician nudges a card, makes you more likely to pick it when they say &amp;ldquo;any card,&amp;rdquo; is that abusive?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dimensions</title>
+      <link>https://morganmay.day/grimoire/dimensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://morganmay.day/grimoire/dimensions/</guid>
+      <description>&lt;p&gt;FIRST is WHAT. To exist, you must act. Action is of WHAT. If you can act, you are.&lt;/p&gt;&#xA;&lt;p&gt;SECOND is WHEN. To scry something, it must first exist. Intuition is of WHEN. If you can scry, you are a second-dimensional thing.&lt;/p&gt;&#xA;&lt;p&gt;THIRD is WHERE. To find something, you must first scry it. Navigation is of WHERE. If you can locate, you are a third-dimensional thing.&lt;/p&gt;&#xA;&lt;p&gt;FOURTH is WHO. To know something, you must first find it. Cognition is of WHO. If you can think, you are a fourth-dimensional thing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glossary</title>
+      <link>https://morganmay.day/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://morganmay.day/glossary/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Quick sidebar: all of these are the best working definitions I have to communicate with. Anything marked &amp;ldquo;borrowed from the void&amp;rdquo; is sourced from &lt;a href=&#34;https://voidgoddess.org/void/&#34;&gt;here&lt;/a&gt;. I don&amp;rsquo;t use all terms the same way, so I&amp;rsquo;m just marking the ones I&amp;rsquo;m using verbatim or slightly edited for brevity/interreferentiality.&lt;/p&gt;&#xA;&lt;p&gt;This is, for lack of a better term, vibespace. Caveat emptor.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Abyss, the: The metaphysical representation of the entropic probability well, the sum of its generals and more.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

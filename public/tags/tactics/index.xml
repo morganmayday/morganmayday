@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tactics on Morgan Mayday</title>
+    <link>http://localhost:1313/tags/tactics/</link>
+    <description>Recent content in tactics on Morgan Mayday</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tactics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tactics 101</title>
+      <link>http://localhost:1313/advice/tactics-101/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/advice/tactics-101/</guid>
+      <description>&lt;p&gt;See, I say, you&amp;rsquo;ve heard &amp;ldquo;know thy enemy&amp;rdquo;, played some chess, and read &lt;a href=&#34;https://articles.starcitygames.com/articles/whos-the-beatdown/&#34;&gt;Who&amp;rsquo;s the Beatdown&lt;/a&gt; and now you have a basic grasp on strategy and tactics. But a &amp;ldquo;basic grasp&amp;rdquo; is only going to get you so far. Welcome to Tactics 101.&lt;/p&gt;&#xA;&lt;p&gt;STRATEGY, I write on the whiteboard, and whack it with my marker.&lt;/p&gt;&#xA;&lt;p&gt;Strategy and tactics are not synonymous: this is &lt;em&gt;very&lt;/em&gt; important! Tactics serve strategy, not the other way round. Both inform each other. Just so that we&amp;rsquo;re working with the same definition, let me tell you how strategy works.&lt;br&gt;&#xA;To Strategise, the first step is to identify your GOAL, then OBJECTIVES in service of it. Tactics are how you accomplish those objectives. This is the very simplest understanding I can boil it down to.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
