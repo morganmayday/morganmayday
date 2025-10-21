@@ -11,8 +11,8 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice 
-[Tactics 101](/advice/tactics-101.md)
-[Agency, Manipulation, Coercion, and Abuse](/advice/agency.md)
+[Tactics 101](/advice/tactics-101)
+[Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 [Agency, Manipulation, Coercion, and Abuse](/advice/agency)\
 [Tactics 101](/advice/tactics)
 
