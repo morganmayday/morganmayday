@@ -42,7 +42,7 @@ Data: Raw information. Can be filtered through the Art of recognition to begin c
 
 Door, the: The anti-inductive knowledge necessary to change. A threshold, a barrier, a boundary, and none of the above. Related to the Arts of judgement and recognition.
 
-Dimensions, first through fifth: See [here](https://github.com/morganmayday/about/blob/main/grimoire/dimensions.md). Page'll be refined and moved here at a later date.
+Dimensions, first through fifth: See [here](/grimoire/dimensions) for a quick-n-dirty til I can properly update it.
 
 Full stack: The whole of one's being. See also self-aggregate. Carries with it the connotation of true fullness, of being able to use the entirety of one's cognitive hardware, firmware, and software towards a goal.
 
