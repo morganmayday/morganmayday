@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganmay.day/archives/</loc>
-    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <loc>https://morganmay.day/advice/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/advice/apologies/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/</loc>
-    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://morganmay.day/advice/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <loc>https://morganmay.day/archives/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/advice/tactics-101/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
