@@ -11,8 +11,9 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice 
-[Agency, Manipulation, Coercion, and Abuse](/advice/agency)\
-[Tactics 101](/advice/tactics)
+[Don't Apologise To Me](/advice/apologies)\
+[Tactics 101](/advice/tactics)\
+[Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 
 ### Grimoire
 [Dimensions (unfinished post)](/grimoire/dimensions)
