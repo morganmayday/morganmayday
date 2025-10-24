@@ -1,7 +1,7 @@
 +++
 title = 'Archives'
 author = 'Morgan'
-date = 2025-10-20
+date = 2025-10-23
 +++
 Hey there. Looking for something specific? List below should have it.
 
