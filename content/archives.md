@@ -1,11 +1,11 @@
 +++
 title = 'Archives'
-author = 'Morgan'
-date = 2025-10-23
+date = 2025-10-26
 +++
 Hey there. Looking for something specific? List below should have it.
 
 ### General
+[About the authors](/authors)\
 [Glossary](/glossary)\
 [All advice](/advice)\
 [All grimoire pages](/grimoire)

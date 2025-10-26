@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://morganmay.day/archives/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/authors/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://morganmay.day/advice/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://morganmay.day/archives/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://morganmay.day/advice/apologies/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/advice/tactics-101/</loc>
@@ -19,6 +22,8 @@
   </url><url>
     <loc>https://morganmay.day/advice/agency/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/campfire/</loc>
   </url><url>
     <loc>https://morganmay.day/categories/</loc>
   </url><url>
