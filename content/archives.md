@@ -12,7 +12,7 @@ Hey there. Looking for something specific? List below should have it.
 
 ### Advice 
 [Don't Apologise To Me](/advice/apologies)\
-[Tactics 101](/advice/tactics)\
+[Tactics 101](/advice/tactics-101)\
 [Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 
 ### Grimoire
