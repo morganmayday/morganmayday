@@ -1,6 +1,25 @@
 +++
 draft = true
 +++
+
+his is where I move onto the second topic: sucks. Sometimes, things suck. Sometimes, you've lost.\
+I'm about to get real fuckin dark. Warning for that.
+
+I'm really very serious. If you can't handle some grim shit, now's probably time to click off.
+
+...I lean back against my chair, exhale. You have to understand, right, I'm not an activist or a dissident or any of that jazz, and if I was I wouldn't tell you. I know, however, that if broken properly, I would be a potential asset to fascist movements.
+
+And that's really grim to think about! Fascist movements regularly target those I care about! And while I would call myself impossible to break, that is for a very, very key reason.
+
+In opposed tactics and strategy, one of your goals is to deny your enemies every resource. If you are a breathing human being and not the Fascist Ideal, fascists will consider you either an enemy or a resource. If you are an enemy, you are to be turned into a resource, if that fails, you are to be destroyed. 
+
+There's a saying, though I don't know where I heard it: "if someone puts a gun in your hand and tells you to kill your brother, there is only one target, and it's the one who handed you the gun." Fascists know about this. Fascists evade this as best as possible. As a strategist, you don't trust unwilling conscripts for a reason. 
+
+I think you can see the outline of why this is grim. The more you improve yourself, the more you work on yourself, the more skills you gain, the more tempting a resource you are to your enemies if they can make you theirs. Resource denial. In tactics, even you at the top are a resource.
+
+This segues into our third concept of the class, and a lighter one: dead time.\
+
+
 I reset my half of the chessboard, take a drink from my glass. Truth is, you know, I've never really liked chess. Chess is not my game--it has perfect information. I thrive in the guesswork, the intuition, the strategy of reading your enemy like a book and stripping them of their advantages mercilessly. I'm definitely not the best tactician in a chesslike, I'll freely admit that, but give me a mirror match of any Magic: the Gathering deck I have a dozen reps on and I'll put on a show.
 
 Chess gives perfect information to you freely. MTG treats information as a resource. This is why I say chess isn't an accurate conflict simulator--why do you think intelligence and counterintelligence are *sectors* rather than curiosities? When I do play chess, I prefer to play black. I want information as to how my opponent plays, because that's the only hidden information in the game.
