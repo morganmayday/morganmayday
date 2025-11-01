@@ -2,6 +2,9 @@
 draft = true
 +++
 
+I recently had an occurrence where there was someone actively hurting people, who weren't going to take care of themselves and leave the situation without intervention. This was one of my enemies, direct and unadulterated, who I never planned to reach out to again. While the hostile intent directed at my contacts and friends could have an excuse or explanation, those excuses and explanations were preempting and preventing counterplay. \
+If I directly stepped in and told my friends what to think, that would be a primary violation of their agency with net negative consequences. So I didn't. I talked, very simply, about safety, security, and [agency](/advice/agency). Any other choices were made entirely by them with full information; my scrying merely indicated that giving that information would allow them to take counterplay and have less bad of a time.
+
 his is where I move onto the second topic: sucks. Sometimes, things suck. Sometimes, you've lost.\
 I'm about to get real fuckin dark. Warning for that.
 
