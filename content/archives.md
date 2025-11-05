@@ -11,7 +11,7 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice 
-[Beautiful Games](/advice/beautiful-games)
+[Beautiful Games](/advice/beautiful-games)\
 [Tactics 300](/advice/tactics-300)\
 [Tactics 102](/advice/tactics-102)\
 [Don't Apologise To Me](/advice/apologies)\
