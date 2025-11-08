@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-11-05
+date = 2025-11-08
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -12,11 +12,13 @@ Hey there. Looking for something specific? List below should have it.
 
 ### Advice 
 [Beautiful Games](/advice/beautiful-games)\
-[Tactics 300](/advice/tactics-300)\
-[Tactics 102](/advice/tactics-102)\
 [Don't Apologise To Me](/advice/apologies)\
-[Tactics 101](/advice/tactics-101)\
 [Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 
+#### Advice on tactics
+[Tactics 101](/advice/tactics-101)\
+[Tactics 102](/advice/tactics-102)\
+[Tactics 300](/advice/tactics-300)\
+
 ### Grimoire
-[Dimensions (unfinished post)](/grimoire/dimensions)
+
