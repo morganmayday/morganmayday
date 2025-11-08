@@ -13,7 +13,7 @@ I do not like brushing my teeth. I brush my teeth every night.
 
 Sit here with me and think about it, okay? Pick a task, any task, you find unpleasant, and chase it with me. This won't necessarily be pleasant, but it'll be good practice.
 
-What are the [simple consequences](/glossary#consequences) of not doing this task? If I don't brush my teeth tonight, I'll wake up with my mouth feeling like it's full of sand. What are the [complex consequences](/glossary#xth-order-consequences) of not doing this task? If I don't brush my teeth tonight, I make progress towards needing a root canal.
+What are the [simple consequences](/glossary#consequences) of not doing this task? If I don't brush my teeth tonight, I'll wake up with my mouth feeling like it's full of sand. What are the [complex consequences](/glossary#xth-order-consequence) of not doing this task? If I don't brush my teeth tonight, I make progress towards needing a root canal.
 
 This part is helpful, but it's often not enough. You also have to go down the inverse track.\
 What are the simple consequences of doing this task? If I brush my teeth tonight, I feel better in the morning and I get better sleep. What are the complex consequences of doing this task? I can keep my teeth for longer, and hurt less. 
@@ -32,10 +32,10 @@ Let's take the "going to work" loop.\
 I want to get out of the house and stay sane, I want a paycheck next week, I want to not bedrot all day, I want to not get fired so I can continue getting paychecks, and yet sometimes going to work would be insurmountable. I would not physically want to get up and leave for work. It would feel like fighting my brain to do so.\
 So why did my brain want not to go to work?
 
-I don't think laziness exists. When you think about any desire like this, there's almost always a _fear._ When I didn't go to work, it was because I was afraid: maybe afraid of being mistreated by customers and coworkers, maybe afraid of being given physical tasks beyond my capabilities, both of which were very reasonable fears! Both of which happened regularly! I wasn't going to be able to tell my brain "let's try this once, and it won't be as bad as you think," because I wasn't going to lie to myself like that.
+I don't think laziness exists. When you think about any desire like this, there's almost always a _fear._ When I didn't go to work, it was because I was afraid: maybe afraid of being mistreated by customers and coworkers, maybe afraid of being given physical tasks beyond my capabilities and contract, both of which were very reasonable fears! Both of which happened regularly! I wasn't going to be able to tell my brain "let's try this once, and it won't be as bad as you think," not without lying to myself. I got hurt at the end because the job wilfully disrespected the physical health of myself and other workers.
 
 That, if anything, is the benefit and the danger of this. There's an ancient folk saying: "if it sucks, hit da bricks". Sometimes, leaving the situation is the only way to make your life better. Sometimes, leaving the situation will give you new, worse problems. Often, you won't be able to 100% identify which is which. 
 
-If it's hurting you, though? If it's something you and [You](/glossary#you-capitalised) are at odds on, and You have to admit you kind of have a point?
+If it's hurting you, though? If it's something you and [You](/glossary#self) are at odds on, and You have to admit you kind of have a point? Well, if you're prone to [5&10s](https://voidgoddess.org/2023/03/27/demons-from-the-510verse/), you should get a trusted set of eyes on it, but...
 
 You should start making a plan to leave.

@@ -18,7 +18,7 @@ Hey there. Looking for something specific? List below should have it.
 #### Advice on tactics
 [Tactics 101](/advice/tactics-101)\
 [Tactics 102](/advice/tactics-102)\
-[Tactics 300](/advice/tactics-300)\
+[Tactics 300](/advice/tactics-300)
 
 ### Grimoire
-
+[To Desire](/grimoire/desire)
