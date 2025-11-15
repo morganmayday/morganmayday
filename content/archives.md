@@ -21,4 +21,5 @@ Hey there. Looking for something specific? List below should have it.
 [Tactics 300](/advice/tactics-300)
 
 ### Grimoire
+[Not A Person](/grimoire/personhood)\
 [To Desire](/grimoire/desire)
