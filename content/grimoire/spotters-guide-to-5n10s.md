@@ -1,5 +1,5 @@
 +++
-draft = 'true'
+draft = true
 title = "A Spotter's Guide to 5&10s"
 date = 2025-11-09
 author = 'Morgan'
