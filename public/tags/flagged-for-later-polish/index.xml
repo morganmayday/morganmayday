@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flagged for later polish on Morgan Mayday</title>
-    <link>https://morganmay.day/tags/flagged-for-later-polish/</link>
+    <link>http://localhost:1313/tags/flagged-for-later-polish/</link>
     <description>Recent content in flagged for later polish on Morgan Mayday</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://morganmay.day/tags/flagged-for-later-polish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flagged-for-later-polish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dimensions</title>
-      <link>https://morganmay.day/grimoire/dimensions/</link>
+      <link>http://localhost:1313/grimoire/dimensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://morganmay.day/grimoire/dimensions/</guid>
+      <guid>http://localhost:1313/grimoire/dimensions/</guid>
       <description>&lt;p&gt;FIRST is WHAT. To exist, you must act. Action is of WHAT. If you can act, you are.&lt;/p&gt;&#xA;&lt;p&gt;SECOND is WHEN. To scry something, it must first exist. Intuition is of WHEN. If you can scry, you are a second-dimensional thing.&lt;/p&gt;&#xA;&lt;p&gt;THIRD is WHERE. To find something, you must first scry it. Navigation is of WHERE. If you can locate, you are a third-dimensional thing.&lt;/p&gt;&#xA;&lt;p&gt;FOURTH is WHO. To know something, you must first find it. Cognition is of WHO. If you can think, you are a fourth-dimensional thing.&lt;/p&gt;</description>
     </item>
   </channel>

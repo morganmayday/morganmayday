@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-11-08
+date = 2025-11-15
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -21,4 +21,5 @@ Hey there. Looking for something specific? List below should have it.
 [Tactics 300](/advice/tactics-300)
 
 ### Grimoire
+[A Spotter's Guide to 5&10s](/grimoire/spotters-guide-to-5n10s)
 [To Desire](/grimoire/desire)
