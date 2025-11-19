@@ -24,3 +24,6 @@ Hey there. Looking for something specific? List below should have it.
 
 ### Grimoire
 [Not A Person](/grimoire/personhood)
+
+### Tools
+[The Feels Like Shit Checklist](/tools/flschecklist)
