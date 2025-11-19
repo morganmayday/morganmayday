@@ -5,6 +5,9 @@ title = "Don't Apologise To Me"
 author = "Morgan"
 +++
 
+Edit 19 Nov 2025: Correction for the unapology, added by Caroline.
+
+----
 'Sorry' is all well and good, but what are you going to *do* about it?\
 Let me explain. There are three kinds of apologies.
 
@@ -14,10 +17,14 @@ Generally, apologising for something that doesn't matter just obligates the othe
 Two: the *spiraling apology*. This is a specific kind of apology that is entirely self-flagellation. The focus in this kind of apology isn't on the action, but *you.*\
 If you hurt me by saying something inaccurate about me, like fuckin calling me a person, I don't want you to spiral about it, I want you to incorporate that data and do better. If you are spiraling, you aren't actually incorporating the data, you're 5&10ing yourself into the world where any harm you ever do to someone else is a Mortal Sin and an Indicator of Evil. Where the superficial apology is counterproductive because it exhausts other conversationalists, the spiraling apology is counterproductive because you are not incorporating "don't do that", you're incorporating "I Guess I'm Just A Horrible Person".
 
-Third, and finally: the *productive apology.* This is the only kind of apology I want to see.\
+Third: the _unapology._ This is an apology that a lot of people do and do not realize they are doing. Where the superficial apology apologises for something superficial, the unapology's apology itself is superficial. There is no motion towards change. This is the kind of apology where someone says "I'll do better, I'm trying my best," and then does not change their behaviour. If you've read my piece [on desire,](/advice/desire) you know why I think this is bullshit. To want to do better _is_ to do better, if you have any real agency. 
+
+Fourth, and finally: the *productive apology.* This is the only kind of apology I want to see.\
 In the productive apology, you are presented with data, either from someone else or your own recognition skills, and you make a commitment to a plan of action to not make that mistake again. That's it! That's the entirety of it! The folk you hurt are not obligated to comfort you, and they receive knowledge that they don't have to fear it happening again! There's only a problem if you don't stick to that commitment!
 
 Now, one and two don't happen in a vacuum. They're taught by the idea that apologising is safer than taking up space, that blaming yourself in advance is the only way to evade worse harm. This is, generally, an effective survival instinct if you're in an abusive situation, this is why it happens. What irks me is when they happen around me, because frankly if you think you need to _survive my wrath_ over something, either you've done something genuinely horrific enough to tick me all the way off--which is _damn_ difficult to do, even harder if you're trying to be better--or your model of me is poor-at-best.
+
+Three is a bit different; it speaks to a different survival tactic under abuse, of apologising for things you do not intend to change so that you can keep being _you_ within the parameters of the relationship. I would note that the unapology is one that often ends up perpetrating cycles of abuse--a lot of people who unapologise are doing it because they believe they cannot change their harmful behaviour, or that to do so would harm them more. It's understandable as well, but it is a dangerous tendency that led us into some very dark places.
 
 I suppose what I'm trying to say is: stop treating your friends like they will be as bad as your abusers. If they really will be, you should be kind to yourself by leaving the situation and not taking that shit. If they won't be--spoiler, most of the time this is the case--then stop being unkind to not only yourself, but to them by assuming the worst. If you do something wrong, and you don't know how to address it, you can _ask!_ You don't have to make a plan of action alone--just don't make others feel Obligated to teach you how not to hurt them.
 

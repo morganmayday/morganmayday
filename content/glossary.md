@@ -6,10 +6,10 @@ author = 'Morgan'
 >
 > This is, for lack of a better term, vibespace. Caveat emptor.
 
-### Abyss, the
+### The Abyss
 The metaphysical representation of the entropic probability well, the sum of its generals and more.
 
-#### Abyss, the Generals of the
+#### The Generals of the Abyss
 Moloch, Mars, Naraka, Lethe. (Borrowed from the void.)
 #### Lethe
 Witch queen of oblivion seeking, the ghost lady of nightmares, the tendency to seek death as a form of escape after all other apparent paths have been closed. (Borrowed from the void.)
@@ -51,8 +51,8 @@ Thinking about thinking.
 ### Data
 Raw information. Can be filtered through the Art of recognition to begin constructing an intuitive model.
 
-### Door, the 
-The anti-inductive knowledge necessary to change. A threshold, a barrier, a boundary, and none of the above. Related to the Arts of judgement and recognition.
+### The Door
+The anti-inductive knowledge necessary to change. A threshold, a barrier, a boundary, and none of the above. Related to the Arts of judgement and recognition. _You make every choice you make._
 
 ### Full stack
 The whole of one's being. See also self-aggregate. Carries with it the connotation of true fullness, of being able to use the entirety of one's cognitive hardware, firmware, and software towards a goal.
@@ -66,7 +66,8 @@ To understand wholly, on the levels of belief, knowledge, and intuition. Taken f
 ### Intuitive model
 A mental model, using recognition, judgement, and evocation, of a person, force, or entity's past, present, or future actions. Often can't be accessed directly due to the sheer amount of information within being best filed on a subconscious layer. Enables more accurate scrying.
 
-### Material, in context of goals, change, and the like
+### Material
+_(in context of goals, change, and the like)_\
 A goal, change, or similar that you can _confirm_ the completion of.
 
 ### Self
@@ -82,7 +83,8 @@ The whole of one's being. See also full stack. Can have connotations of discorda
 A building block of being. "Agent" is borrowed from the void as the most logically primitive component of the universe that still performs logical functions.
 #### Self-facet
 A whole entity within a self-aggregate. In popular plurality, may be referred to as an alter. Sometimes will have its own self-aggregate, leading to a "self-aggregate-aggregate" situation.
-#### You, capitalized
+#### You
+_(capitalized)_\
 The conscious portions of one's self-aggregate. What traditional psychology would be likely to classify as the ego.
 
 ### Consequence
