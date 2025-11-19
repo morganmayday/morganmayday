@@ -5,8 +5,8 @@ Date = 2025-11-08
 +++
 "I don't want to do this" is a very simple statement.
 
-We live in a world where we have to do things we find unpleasant.\ 
-I do not like brushing my teeth. I also have to brush my teeth.\ 
+We live in a world where we have to do things we find unpleasant.\
+I do not like brushing my teeth. I also have to brush my teeth.\
 It's worse, for a lot of folk in school or assignment-based workspaces. A lot of the time, you have to suffer through boring, routine, difficult but not challenging, or overly challenging tasks, and those _suck._ I don't like doing them. They do not bring me joy; this is why I'm not currently planning on going back to college.
 
 I do not like brushing my teeth. I brush my teeth every night.
