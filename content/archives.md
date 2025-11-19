@@ -17,8 +17,7 @@ Hey there. Looking for something specific? List below should have it.
 [Don't Apologise To Me](/advice/apologies)\
 [Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 
-#### Advice on tactics
-[Emotions vs Reason, and Self Control](/advice/selfcontrol)\
+#### ... on tactics
 [Tactics 101](/advice/tactics-101)\
 [Tactics 102](/advice/tactics-102)\
 [Tactics 300](/advice/tactics-300)
