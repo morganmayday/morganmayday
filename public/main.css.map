@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/mayday/Projects/morganmayday",
+	"sourceRoot": "/home/mayday/projects/morganmayday",
 	"sources": [
 		"themes/hello-foe/assets/scss/main.scss",
 		"themes/hello-foe/assets/scss/_normalize.scss",

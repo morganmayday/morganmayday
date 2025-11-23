@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-11-19
+date = 2025-11-23
 +++
 Hey there. Looking for something specific? List below should have it.
 
