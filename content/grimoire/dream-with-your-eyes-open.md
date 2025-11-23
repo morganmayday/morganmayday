@@ -1,5 +1,5 @@
 +++
-Title = 'Oculis, Apertis, Somnia'
+Title = 'Oculis Apertis Somnia'
 Date = 2025-11-23
 Author = 'Morgan'
 +++
