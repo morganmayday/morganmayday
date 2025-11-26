@@ -11,7 +11,6 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice
-[title = 'Empathy, People, and You, or: the Flesh Racket'](/advice/empathy)\
 [Empathy, People, and You; or, the Flesh Racket](/advice/empathy)\
 [Emotions vs Reason, and Self Control](/advice/selfcontrol)\
 [To Desire](/advice/desire)\
