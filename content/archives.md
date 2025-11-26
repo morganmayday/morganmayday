@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-11-23
+date = 2025-11-26
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -10,7 +10,9 @@ Hey there. Looking for something specific? List below should have it.
 [All advice](/advice)\
 [All grimoire pages](/grimoire)
 
-### Advice 
+### Advice
+[title = 'Empathy, People, and You, or: the Flesh Racket'](/advice/empathy)\
+[Empathy, People, and You; or, the Flesh Racket](/advice/empathy)\
 [Emotions vs Reason, and Self Control](/advice/selfcontrol)\
 [To Desire](/advice/desire)\
 [Beautiful Games](/advice/beautiful-games)\
