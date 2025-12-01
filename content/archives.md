@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-11-26
+date = 2025-12-01
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -11,6 +11,7 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice
+[Strategy for the Dying Future](/tactics/000)\
 [Empathy, People, and You; or, the Flesh Racket](/advice/empathy)\
 [Emotions vs Reason, and Self Control](/advice/selfcontrol)\
 [To Desire](/advice/desire)\
@@ -19,9 +20,10 @@ Hey there. Looking for something specific? List below should have it.
 [Agency, Manipulation, Coercion, and Abuse](/advice/agency)
 
 #### ... on tactics
-[Tactics 101](/advice/tactics-101)\
-[Tactics 102](/advice/tactics-102)\
-[Tactics 300](/advice/tactics-300)
+[Tactics 000](/tactics/000)\
+[Tactics 101](/tactics/101)\
+[Tactics 102](/tactics/102)\
+[Tactics 300](/tactics/300)
 
 ### Grimoire
 [Oculis Apertis Somnia](/grimoire/dream-with-your-eyes-open)\
