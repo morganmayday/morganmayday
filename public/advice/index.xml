@@ -6,8 +6,15 @@
     <description>Recent content in advice on Morgan Mayday</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://morganmay.day/advice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacking Yourself Does, Technically, Work</title>
+      <link>https://morganmay.day/advice/hacks/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://morganmay.day/advice/hacks/</guid>
+      <description>&lt;p&gt;When I say I&amp;rsquo;m hacking something together, that&amp;rsquo;s a very specific statement.&lt;/p&gt;&#xA;&lt;p&gt;To create something on something else, to patch together a solution from disparate pieces onto an existing workflow, that&amp;rsquo;s something I do all the time in computer science, and every time I do it, I later regret it. I&amp;rsquo;m not gonna stop, because it&amp;rsquo;s often the most efficient way for me to learn&amp;ndash;for example, I learned to write Nix by editing .nix files with no fucking clue what I was doing and then parsing the error messages&amp;ndash;but it is bad practices.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Empathy, People, and You, or: the Flesh Racket</title>
       <link>https://morganmay.day/advice/empathy/</link>
