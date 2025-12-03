@@ -11,6 +11,7 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice
+[Hacking Yourself Does, Technically, Work](/advice/hacks)\
 [Strategy for the Dying Future](/tactics/000)\
 [Empathy, People, and You; or, the Flesh Racket](/advice/empathy)\
 [Emotions vs Reason, and Self Control](/advice/selfcontrol)\
