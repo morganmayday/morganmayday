@@ -36,6 +36,12 @@ One of the Arts. Associated with the second dimension, WHEN. The practice of usi
 #### Wizardry
 The full-stack practice of the Arts towards a material goal.
 
+### Bandwidth
+The ability to devote time, energy, and fullstack thought to a task.
+
+#### Band
+The metaphorical bandwidth reserve.
+
 ### Cognition
 The process of thinking.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-12-03
+date = 2025-12-10
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -8,9 +8,11 @@ Hey there. Looking for something specific? List below should have it.
 [About the authors](/authors)\
 [Glossary](/glossary)\
 [All advice](/advice)\
+[... on tactics](/tactics)\
 [All grimoire pages](/grimoire)
 
 ### Advice
+[Taking Relationships Seriously, and the Importance of Living Models](/advice/relationships)
 [Hacking Yourself Does, Technically, Work](/advice/hacks)\
 [Strategy for the Dying Future](/tactics/000)\
 [Empathy, People, and You; or, the Flesh Racket](/advice/empathy)\
