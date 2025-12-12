@@ -1,6 +1,6 @@
 +++
 title = 'Archives'
-date = 2025-12-10
+date = 2025-12-12
 +++
 Hey there. Looking for something specific? List below should have it.
 
@@ -29,6 +29,7 @@ Hey there. Looking for something specific? List below should have it.
 [Tactics 300](/tactics/300)
 
 ### Grimoire
+[5, 10, and a Little Bit of Magic](/grimoire/5n10)\
 [Oculis Apertis Somnia](/grimoire/dream-with-your-eyes-open)\
 [Not A Person](/grimoire/personhood)
 

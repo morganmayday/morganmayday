@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganmay.day/advice/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>https://morganmay.day/grimoire/5n10/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/archives/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/grimoire/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/advice/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/advice/relationships/</loc>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>https://morganmay.day/advice/empathy/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/grimoire/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/grimoire/dream-with-your-eyes-open/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
