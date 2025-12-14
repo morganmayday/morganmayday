@@ -1,12 +1,11 @@
 +++
 title = 'Archives'
-date = 2025-12-12
 +++
 Hey there. Looking for something specific? List below should have it.
 
 ### General
-[About the authors](/authors)\
-[Glossary](/glossary)\
+[Glossary](/glossary)
+
 [All advice](/advice)\
 [... on tactics](/tactics)\
 [All grimoire pages](/grimoire)
@@ -35,3 +34,4 @@ Hey there. Looking for something specific? List below should have it.
 
 ### Tools
 [The Feels Like Shit Checklist](/tools/flschecklist)
+

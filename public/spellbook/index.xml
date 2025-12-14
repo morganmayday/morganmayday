@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spellbook on Morgan Mayday</title>
-    <link>https://morganmay.day/spellbook/</link>
+    <link>http://localhost:1313/spellbook/</link>
     <description>Recent content in spellbook on Morgan Mayday</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://morganmay.day/spellbook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/spellbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Gate, of Sorts.</title>
+      <link>http://localhost:1313/spellbook/gate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spellbook/gate/</guid>
+      <description>&lt;p&gt;so you&amp;rsquo;ve talked, to that mage you know, and it&amp;rsquo;s told you the outline of things, spoken of skills and tools and metaphors for horrible things and useful things. and you get it, or at least you mostly do.&lt;/p&gt;&#xA;&lt;p&gt;and that mage you know, you&amp;rsquo;ve asked it questions, and it&amp;rsquo;s told you near-answers and hedged its words, and told you that it &lt;em&gt;can&amp;rsquo;t&lt;/em&gt; tell you everything, and that&amp;rsquo;s fine, language has a limit, but you do want to learn more. so you ask, of course, because it encourages questions.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

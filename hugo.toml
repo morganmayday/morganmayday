@@ -6,39 +6,39 @@ pluralizeListTitles = false
 capitalizeListTitles = false
 
 [params]
-  dateform        = "2 Jan, 2006"
-  dateformShort   = "2 Jan"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
-  disableSitemap = false
-  # homeSubtitle = "It/its."
+dateform = "2 Jan, 2006"
+dateformShort = "2 Jan"
+dateformNum = "01-2006-02"
+dateformNumTime = "01-2006-02 15:04"
+disableSitemap = false
+# homeSubtitle = "It/its."
 
 [params.logo]
-    logoMark     = " "
-    logoText     = " "
-    logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    logoCursorDisabled = true
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
-    # Append the current url pathname to logoText
-    # logoCursorPathname = true
+logoMark = " "
+logoText = " "
+logoHomeLink = "/"
+# Set true to remove the logo cursor entirely.
+logoCursorDisabled = true
+# Set to a valid CSS color to change the cursor in the logo.
+# logoCursorColor    = "#67a2c9"
+# Set to a valid CSS time value to change the animation duration, "0s" to disable.
+# logoCursorAnimate  = "2s"
+# Append the current url pathname to logoText
+# logoCursorPathname = true
 
 [[params.author]]
-    name = "Morgan Mayday"
+name = "Morgan Mayday"
 
 [[params.social]]
-   name = "signal"
-   url = "https://signal.me/#eu/VrngTxjiG5Cla7e56gvjumMII0fqjvqxZW1dkB1yWziZMFCBrFVDI7WfqepHhUOW"
+name = "signal"
+url = "https://signal.me/#eu/VrngTxjiG5Cla7e56gvjumMII0fqjvqxZW1dkB1yWziZMFCBrFVDI7WfqepHhUOW"
 
 [[params.social]]
-    name = "email"
-    url  = "mailto:me@morganmay.day"
+name = "email"
+url = "mailto:me@morganmay.day"
 [[params.social]]
-    name = "discord"
-    url = "https://discord.com/users/505883869434740758"
+name = "discord"
+url = "https://discord.com/users/505883869434740758"
 
 # [[params.social]]
 #     name = "github"
