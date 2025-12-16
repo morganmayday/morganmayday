@@ -5,6 +5,9 @@ date = "2025-12-14"
 draft = "false"
 +++
 
+Quick note: these are loose notes assembled from our thoughts. This is significantly less refined than anything else we've written.
+
+-----
 A lot of people think about "ego death" as terrifying. There's a line, past which You no longer exist--of course that's scary, isn't it? It's the void, the unknown. Others who pass it speak of it flippantly, like it wasn't so bad after all, and that's, for some, confusing, for some, terrifying, for some, intriguing.
 
 Ego _suicide_ and ego _murder_ are concepts plural systems will probably understand more intuitively than singlets. To have an alter kill oneself or another, that's old hat to most anyone in proximity to pop-plur--even if it hasn't happened in your system, I can almost guarantee it's happened in the system of someone you've known.
