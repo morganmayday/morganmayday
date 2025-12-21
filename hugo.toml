@@ -40,6 +40,15 @@ url = "mailto:me@morganmay.day"
 name = "discord"
 url = "https://discord.com/users/505883869434740758"
 
+[[params.social]]
+name = "instagram"
+url = "https://youtu.be/dQw4w9WgXcQ"
+
+[[params.social]]
+name = "twitter"
+url = "https://youtu.be/dQw4w9WgXcQ"
+
+
 # [[params.social]]
 #     name = "github"
 #     url  = "https://github.com/morganmayday"
