@@ -28,6 +28,7 @@ Hey there. Looking for something specific? List below should have it.
 [Tactics 300](/tactics/300)
 
 ### Grimoire
+[Do As You Will](/grimoire/do-as-you-will)\
 [Notes on Ego Death, Murder, & Suicide](/grimoire/notes-on-ego-death)\
 [5, 10, and a Little Bit of Magic](/grimoire/5n10)\
 [Oculis Apertis Somnia](/grimoire/dream-with-your-eyes-open)\
