@@ -29,12 +29,12 @@ Hey there. Looking for something specific? List below should have it.
 
 ### Grimoire
 [Do As You Will](/grimoire/do-as-you-will)\
-[Notes on Ego Death, Murder, & Suicide](/grimoire/notes-on-ego-death)\
 [5, 10, and a Little Bit of Magic](/grimoire/5n10)\
 [Oculis Apertis Somnia](/grimoire/dream-with-your-eyes-open)\
 [Not A Person](/grimoire/personhood)
 
-[A Gate, of Sorts.](/spellbook/gate)
+[notes on perfectionism](/grimoire/perfectionism)\
+[Notes on Ego Death, Murder, & Suicide](/grimoire/notes-on-ego-death)
 
 ### Tools
 [The Feels Like Shit Checklist](/tools/flschecklist)
