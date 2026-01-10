@@ -37,6 +37,8 @@ Hey there. Looking for something specific? List below should have it.
 [notes on perfectionism](/grimoire/perfectionism)\
 [Notes on Ego Death, Murder, & Suicide](/grimoire/notes-on-ego-death)
 
-### Tools
 [The Feels Like Shit Checklist](/tools/flschecklist)
 
+### Guests
+##### Lūx
+[You Can Do Whatever You Want Forever](/guests/lux/you-can-do-whatever-you-want-forever)

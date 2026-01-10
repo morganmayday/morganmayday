@@ -1,3 +1,12 @@
++++
+title = "You Can Do Whatever You Want, Forever"
+author = "Lūx"
+date = 2026-01-09
++++
+
+This is a guest essay by our sibling Lūx!
+
+-----
 People take "you can do whatever you want" the wrong way a lot. I know I did, when I first heard it, even when I heard the first explanation for it. There's a part of us that gets _stubborn_ about it, that rebukes the idea of "whatever" as _anything:_ it is physically impossible to fly, for example. It is physically impossible to breathe underwater. It is physically impossible to alter my shape with pure will.  
   
 But that's not what that means, not really.  
@@ -14,8 +23,8 @@ But that's not the point. The point is, if you want it, evaluate it. If you want
   
 This applies to the mind as much as the body.  
   
-_I wish I wasn't so scared._ You can do whatever you want forever. This doesn't make it easy. This doesn't mean imagining it so and it instantly solving itself. This means _work._ This means looking at yourself, and asking: why am I scared? It means identifying the issue, acknowledging the issue, and sitting with it without being consumed by it. It means talking to others and seeking help. It means backsliding, and setbacks, and putting yourself out of your comfort zone.  
-You may look at that and decide it's not worth the emotional effort.  
+_I wish I wasn't so scared._ You can do whatever you want forever. This doesn't make it easy. This doesn't mean imagining it so and it instantly solving itself. This means _work._ This means looking at yourself, and asking: why am I scared? It means identifying the issue, acknowledging the issue, and sitting with it without being consumed by it. It means talking to others and seeking help. It means backsliding, and setbacks, and putting yourself out of your comfort zone.\ 
+You may look at that and decide it's not worth the emotional effort.\
 This doesn't mean you _can't._ It merely means the pain of doing so is not worth it to you.
 
 By this point, if you're like we were, you've already dismissed us or gotten upset at the implications. How dare we say you're not trying? Don't we know how hard you've tried? You _have_ tried! You've _been_ trying!
@@ -28,7 +37,7 @@ A lot of people decide—more often subconsciously than not—that the stress, d
   
 You can do whatever you want. Sometimes that means you choose not to grow. We make that choice sometimes. It is your life, and you can do whatever you want forever; that includes choosing _not_ to change.  
   
-But you can.  
+But you can.\
 It's important that you know that you _can._
 
 If you feel threatened by that, you have a choice now. You can examine _why_ you feel threatened by that. What makes you upset. You can choose to look at it differently, choose to consider it seriously, _choose_ to consider what it says about you.
