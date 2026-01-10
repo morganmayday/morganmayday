@@ -23,7 +23,7 @@ But that's not the point. The point is, if you want it, evaluate it. If you want
   
 This applies to the mind as much as the body.  
   
-_I wish I wasn't so scared._ You can do whatever you want forever. This doesn't make it easy. This doesn't mean imagining it so and it instantly solving itself. This means _work._ This means looking at yourself, and asking: why am I scared? It means identifying the issue, acknowledging the issue, and sitting with it without being consumed by it. It means talking to others and seeking help. It means backsliding, and setbacks, and putting yourself out of your comfort zone.\ 
+_I wish I wasn't so scared._ You can do whatever you want forever. This doesn't make it easy. This doesn't mean imagining it so and it instantly solving itself. This means _work._ This means looking at yourself, and asking: why am I scared? It means identifying the issue, acknowledging the issue, and sitting with it without being consumed by it. It means talking to others and seeking help. It means backsliding, and setbacks, and putting yourself out of your comfort zone.\
 You may look at that and decide it's not worth the emotional effort.\
 This doesn't mean you _can't._ It merely means the pain of doing so is not worth it to you.
 
