@@ -28,6 +28,7 @@ Hey there. Looking for something specific? List below should have it.
 [Tactics 300](/tactics/300)
 
 ### Grimoire
+[how to be a transmisogynist](/grimoire/htt)\
 [To Read, Perchance to Dream](/grimoire/dreaming-a-self)\
 [Do As You Will](/grimoire/do-as-you-will)\
 [5, 10, and a Little Bit of Magic](/grimoire/5n10)\
