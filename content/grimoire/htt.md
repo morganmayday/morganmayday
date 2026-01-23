@@ -1,7 +1,6 @@
 +++
 title = "how to be a transmisogynist"
 author = "Leylune"
-draft = "true"
 date = "2026-01-23"
 +++
 

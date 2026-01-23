@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganmay.day/guests/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <loc>https://morganmay.day/grimoire/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/grimoire/htt/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/guests/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/guests/lux/you-can-do-whatever-you-want-forever/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/grimoire/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/grimoire/dreaming-a-self/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
