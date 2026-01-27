@@ -1,7 +1,6 @@
 +++
 title = "killjoy"
 author = "Leylune"
-draft = "true"
 date = "2026-01-26"
 +++
 
