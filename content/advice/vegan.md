@@ -17,7 +17,7 @@ If you've been struggling to make the whole change at once, I *highly* recommend
 ### Nutrition
 If you're going vegan, you gotta watch a couple things.
 
--- B12--seaweed contains some, but a supplement is still basically required. I take one 5k mcg sublingual tablet 1-3 times a week and it seems to work.
+-- B12--seaweed contains some, but a supplement is still basically required. I take one 5k mcg sublingual tablet 1-3 times a week and it seems to work.\
 -- Protein--protein. You need it. Tofu, beans, oats, nuts, and potatoes are all good towards getting enough protein.
 
 There are other nutrients to keep an eye on--iron, calcium, and omega-3, off the top of my head, but a more detailed search and a knowledge of your own health will serve you better.
@@ -39,8 +39,8 @@ These are always nonvegan:\
 
 These sometimes show up on package-certified vegan foods:\
 -- Non-organic, non-cane sugar is most often processed with bone char (in the US)\
--- Mono-and-diglycerides
--- Pectin (fruit pectin is fine)
+-- Mono-and-diglycerides\
+-- Pectin (fruit pectin is fine)\
 -- Lactic acid (can be plant-sourced)
 
 ### Store-bought ready foods
@@ -49,32 +49,32 @@ I fucking hate Whole Foods, but their 365 brand _does_ clearly label their vegan
 If you drink, I can say off the top of my head that Jinro soju and Kraken rum are vegan, but Kahlua and Fireball aren't. Check [barnivore](https://www.barnivore.com/) for your drinks of choice.
 
 ### Cooking
-These recipes assume you have a working stovetop. I haven't used a microwave in over a calendar year, so I don't have any microwave recipes; I'll indicate the oven and toaster recipes.
+These recipes assume you have a working stovetop. I haven't used a microwave in over a calendar year, so I don't have any microwave recipes; I'll indicate the oven recipes.
 
-Some quick definitions, keeping in mind I am not very cooking-literate, these are just what I've picked up:
--- A saucepan is a pot with a stick-out handle, usually also smaller.
--- A frying pan/skillet is the much flatter version, usually very short but much broader.
--- Low heat is the 1-2 setting on most stoves, medium-low heat is the 3-4 setting on most stoves,5-6 is medium, 7-8 is medium-high, and 9-10 is high heat, usually. Stoves do vary, though.
+Some quick definitions, keeping in mind I am not very cooking-literate, these are just what I've picked up:\
+-- A saucepan is a pot with a stick-out handle, usually also smaller.\
+-- A frying pan/skillet is the much flatter version, usually very short but much broader.\
+-- Low heat is the 1-2 setting on most stoves, medium-low heat is the 3-4 setting on most stoves, 5-6 is medium, 7-8 is medium-high, and 9-10 is high heat, usually. Stoves do vary, though.\
 -- A boil is when big bubbles are coming to the surface of a fluid. If in doubt, it's not boiling.
 
-#### Low Effort
+### Low Effort
 These recipes can be done quickly and for very little energy. I generally lean here for breakfasts. Since these are really easy, I'm not including recipes proper.
 
-##### Toast
+#### Toast
 You know how to make toast. Vegan butters are good, jam is good, and if you want protein, peanut butter helps. Garlic's also fucking fantastic.
 
-##### Bagels
+#### Bagels
 Bagels are really good, and a lot of them are naturally vegan. There are plant-based cream cheese alternatives, but peanut butter, jam, or vegan butter will serve you *excellently,* while I find plant-based cream cheeses vary significantly in quality.
 
-##### PB&J
+#### PB&J
 PB&J is a standby for a reason. If you toast the bread before spreading it, you get some good good crunch.
 
 If you want a more sophisticated PB&J, try frying the bread lightly in some seasoned vegan butter--parsley and oregano, some salt, about a third of a stick of butter over medium-low (3 on most stoves) heat. Flip it over about 4 minutes in, once it's browned on one side, and fry the other for a couple minutes as well. This takes a lot more effort, but it's worth it sometimes.
 
-#### Medium Effort
+### Medium Effort
 These recipes usually take about 15 minutes with little prep time.
 
-##### Oatmeal
+#### Oatmeal
 0.5 cup oats, 1 cup water, pinch of salt, and brown sugar/maple syrup to taste\
 Requires a saucepan or pot, and a stirring spoon.
 
@@ -84,7 +84,7 @@ Requires a saucepan or pot, and a stirring spoon.
 4) Remove from heat and let stand for about 2 minutes.\
 5) Stir in unrefined/organic brown sugar to taste before serving. Same with maple syrup, though less is generally more there.
 
-##### Pasta
+#### Pasta
 Box of pasta, dash of salt, and butter/sauce to taste\
 Requires a saucepan or pot, and a stirring spoon. A colander helps.
 
@@ -95,10 +95,10 @@ Check your box directions, and follow them. Usually, this is:\
 4) Once your timer is up, drain the pasta. You can do this in a colander, though I just pour out the water using the spoon to stop the pasta from coming past, which takes a bit more finesse but doesn't require a colander.\
 5) Melt a bit of butter, to taste, in the still-hot saucepan, and stir with the pasta before serving.
 
-#### High Effort
+### High Effort
 Don't get discouraged by the name! These recipes are all worth the time and energy, they just take at least 30min including prep time.
 
-##### Pancakes
+#### Pancakes
 1.5 cup flour, 1 tbsp baking powder, 0.5 tbsp salt, 2 tbsp granulated sugar, 1 cup alternative milk, 0.5 cup water, up to 2 tbsp canola oil\
 Requires a whisk (or spoon but it's worse), stirring spoon, spatula, mixing bowl, large skillet or griddle, and optionally a ladle
 
@@ -108,7 +108,7 @@ Requires a whisk (or spoon but it's worse), stirring spoon, spatula, mixing bowl
 4) Drop about a third of a cup of batter onto it. Cook until it begins to bubble, then flip it and cook until golden brown, which is about 1-2 minutes usually.\
 5) Serve hot, or freeze and eat through the week. 
 
-##### "Fries"
+#### "Fries"
 A good-sized russet potato (or two or three smaller ones), about 0.5 to 2/3 cup olive oil (extra virgin recommended), black pepper, onion powder, salt, garlic powder (or a little garlic oil substituted for some of the olive oil)\
 Requires a cutting board, kitchen knife, saucepan, and spoon or spatula. A potato peeler is optional, but can make your life way easier. I recommend having somewhere to put the oil as well--don't just pour it down the drain after you're done. An empty glass pasta sauce jar works well.
 
@@ -120,7 +120,7 @@ Requires a cutting board, kitchen knife, saucepan, and spoon or spatula. A potat
 6) Fry your potatoes for a couple minutes (3-5ish), turning up the heat to medium-low.\
 7) Serve hot, fresh, and with ketchup.
 
-##### Garlic bread
+#### Garlic bread
 Bread (either sliced sourdough, or a baguette/loaf cut in half), 0.5 cup unsalted vegan butter, as much garlic as your heart desires (I recommend like a normal-sized bulb, or substitute 3 tbsp of garlic powder), 2 tbsp parsley, pinch of black pepper, two pinches of salt\
 Requires a baking sheet, oven, bowl of any kind, mixing bowl, and kitchen knife.
 
