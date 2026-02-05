@@ -5,9 +5,6 @@ title = "Agency, Manipulation, Coercion, and Abuse"
 author = "Morgan"
 +++
 
-Note: Rewritten with epistemic corrections [here](/advice/agency)
-
------
 I'm cracking the top of my can and sitting down next to you on the stormwall. Listen, honey, I tell you, and shift a bit to get comfortable, to explain this I'm gonna have to get kinda metaphorical. If you're not in a brainspace for a weird conversation, now's not the time.
 
 A lot of people consider manipulation a type of abuse. "You're making someone act against their will," well, yes and no. If the magician nudges a card, makes you more likely to pick it when they say "any card," is that abusive?

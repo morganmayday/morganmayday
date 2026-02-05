@@ -11,6 +11,8 @@ Hey there. Looking for something specific? List below should have it.
 [All grimoire pages](/grimoire)
 
 ### Advice
+[Morgan Mayday's Guide to Going Vegan](/advice/vegan)
+
 [Taking Relationships Seriously, and the Importance of Living Models](/advice/relationships)\
 [Hacking Yourself Does, Technically, Work](/advice/hacks)\
 [Strategy for the Dying Future](/tactics/000)\
