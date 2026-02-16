@@ -101,7 +101,7 @@ Check your box directions, and follow them. Usually, this is:\
 Don't get discouraged by the name! These recipes are all worth the time and energy, they just take at least 30min including prep time.
 
 #### Pancakes
-1.5 cup flour, 1 tbsp baking powder, 0.5 tbsp salt, 2 tbsp granulated sugar, 1 cup alternative milk, 0.5 cup water, up to 2 tbsp canola oil\
+1.5 cup flour, 1 tbsp baking powder, 0.5 tsp salt, 2 tbsp granulated sugar, 1 cup alternative milk, 0.5 cup water, up to 2 tbsp canola oil\
 Requires a whisk (or spoon but it's worse), stirring spoon, spatula, mixing bowl, large skillet or griddle, and optionally a ladle
 
 1) Whisk together the flour, baking powder, salt, and sugar. (You can even bag this mix and use it later.)
