@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganmay.day/advice/</loc>
-    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
+    <loc>https://morganmay.day/grimoire/but-instead-something-else/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/grimoire/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/advice/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/advice/vegan/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/grimoire/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/grimoire/killjoy/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
@@ -107,6 +110,8 @@
     <loc>https://morganmay.day/spellbook/gate/</loc>
   </url><url>
     <loc>https://morganmay.day/archives/</loc>
+  </url><url>
+    <loc>https://morganmay.day/campfire/</loc>
   </url><url>
     <loc>https://morganmay.day/categories/</loc>
   </url><url>
