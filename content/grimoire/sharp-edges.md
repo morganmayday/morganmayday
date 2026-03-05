@@ -14,7 +14,7 @@ i've always loved weapons, you know. when i was little, it was swords. i loved t
 
 these days...some of it's guns, yeah. the undeniable capability, the bark and the bite, the weight of recoil reminding you that all that stands between your skin and an explosion is engineering and a little bit of metal. i like machines, a lot, and guns are very effective machines. i still like knives, but the winner of a knife fight bleeds out in the ambulance, rather than on the pavement. i like my victories to *last.*
 
-people are so..._scared,_ of guns. sharpness without a cutting edge. death without counterplay. they see the fact that, with something like the woman you hold, you have *power,* and they hate it when *nonpeople* have power. armed minorities, after all, are inherently harder to oppress. guns aren't the point, though. i'm talking about *sharpness.*
+people are so..._scared,_ of guns. sharpness without a blade. death without counterplay. they see the fact that, with something like the woman you hold, you have *power,* and they hate it when *nonpeople* have power. armed minorities, after all, are inherently harder to oppress. guns aren't the point, though. i'm talking about *sharpness.*
 
 here, let me explain. let's talk about knives. you can put her down, if you want--do you want to? i don't mind either way, but it'll be easier to understand what i'm saying, with her in your hand. do what you'd like.
 
