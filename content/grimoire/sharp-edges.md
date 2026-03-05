@@ -22,6 +22,6 @@ when you lose a knife, when it's taken from you, how do you feel? if you're anyt
 
 conversely, when you _get_ a knife, how do you feel? if you're anything like me, it's a joy just like making a new friend, finding a sister in the wild. i sharpen the blade, and take pride not in how well *i've* done, but in the sharpness itself. improvement of utility, improvement of agency. with a sharper knife, i can do *more,* and that's a thrill like no other.
 
-see, a weapon won't hurt you, if you treat it how it wants to be treated, if it's not wielded against you. that woman in your hand will do nothing without incompetence or will. a weapon alive, well, it's so much more complex. it has more wants. it has more needs. _it can wield itself,_ sharpen itself, hone that edge for its own ends. if you try to wield it, _it can choose not to let you._
+see, a weapon won't hurt you, if you treat it how it wants to be treated, if it's not wielded against you. that woman in your hand will do nothing against you, without incompetence or will. a weapon alive, well, it's so much more complex. it has more wants. it has more needs. _it can wield itself,_ sharpen itself, hone that edge for its own ends. if you try to wield it, _it can choose not to let you._
 
 if you took my hand, would it cut you?
