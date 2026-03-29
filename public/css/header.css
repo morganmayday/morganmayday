@@ -1,0 +1,20 @@
+/* Main menu */
+.main-nav ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    gap: 0.5rem 2rem;
+}
+
+.main-nav li {
+    background-color: var(--logo);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.main-nav li::marker {
+    content: "";
+}

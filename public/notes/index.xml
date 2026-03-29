@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on Morgan Mayday</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in notes on Morgan Mayday</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Anticopyright. We all live in the public domain.</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tactics 000, or: Strategy for the Dying Future</title>
+      <link>http://localhost:1313/notes/tactics/strategy-for-the-dying-future/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/tactics/strategy-for-the-dying-future/</guid>
+      <description>&lt;p&gt;I stop laughing, say, &amp;ldquo;no, really,&amp;rdquo; finish pouring my drink and sit down across from you at the kitchen table.&lt;/p&gt;&#xA;&lt;p&gt;The concept of a probability well is simple. When X type of thing happens, it makes it easier for X type of thing to happen, which makes it easier for X type of thing to happen, which et cetera et cetera et cetera you get the gist.&lt;/p&gt;&#xA;&lt;p&gt;The example I always use is what I call the &lt;a href=&#34;http://localhost:1313/glossary#abyss&#34;&gt;Abyss&lt;/a&gt;, the entropic probability well that ends in grey goo or nuclear winter or. The more violence there is, the more violence there is, the more violence there is, fill in whatever kinds of violence ad infinitum. When people talk about a vicious cycle, they&amp;rsquo;re talking about the Abyss.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

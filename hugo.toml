@@ -1,54 +1,57 @@
 baseURL = 'https://morganmay.day/'
-languageCode = 'en-us'
+languageCode = 'en'
+DefaultContentLanguage = "en"
 title = 'Morgan Mayday'
-theme = 'hello-foe'
+author = 'Morgan Mayday'
+theme = 'risotto'
 pluralizeListTitles = false
 capitalizeListTitles = false
+copyright = "Anticopyright. We all live in the public domain."
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
 
 [params]
 dateform = "2 Jan, 2006"
 dateformShort = "2 Jan"
 dateformNum = "01-2006-02"
 dateformNumTime = "01-2006-02 15:04"
-disableSitemap = false
-# homeSubtitle = "It/its."
+theme.palette = 'morgan-dark'
 
-[params.logo]
-logoMark = " "
-logoText = " "
-logoHomeLink = "/"
-# Set true to remove the logo cursor entirely.
-logoCursorDisabled = true
-# Set to a valid CSS color to change the cursor in the logo.
-# logoCursorColor    = "#67a2c9"
-# Set to a valid CSS time value to change the animation duration, "0s" to disable.
-# logoCursorAnimate  = "2s"
-# Append the current url pathname to logoText
-# logoCursorPathname = true
+# [menu]
 
-[[params.author]]
-name = "Morgan Mayday"
+# [[menu.main]]
+# identifier = "grimoire"
+# name = "grimoire"
+# url = "/grimoire/"
+# weight = 10
 
-[[params.social]]
-name = "signal"
+# [markup]
+
+# Table of contents
+# Add toc = true to content front matter to enable
+# [markup.tableOfContents]
+# startLevel = 2
+# endLevel = 3
+# ordered = true
+
+[params.about]
+title = "the website of Morgan Mayday"
+description = "Spellbook, blog, and weapon."
+# logo = "🍚"
+#logo_image = "images/rice.svg"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-signal-messenger"
+title = "signal"
 url = "https://signal.me/#eu/VrngTxjiG5Cla7e56gvjumMII0fqjvqxZW1dkB1yWziZMFCBrFVDI7WfqepHhUOW"
 
-[[params.social]]
-name = "email"
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "email"
 url = "mailto:me@morganmay.day"
-[[params.social]]
-name = "discord"
-url = "https://discord.com/users/505883869434740758"
 
-[[params.social]]
-name = "instagram"
-url = "https://youtu.be/dQw4w9WgXcQ"
-
-[[params.social]]
-name = "twitter"
-url = "https://youtu.be/dQw4w9WgXcQ"
-
-
-# [[params.social]]
-#     name = "github"
-#     url  = "https://github.com/morganmayday"
+[[params.socialLinks]]
+icon = "fa-brands fa-gitlab"
+title = "gitlab"
+url = "https://gitlab.com/labrysmoder"

@@ -1,12 +1,8 @@
 +++
 title = "To Read, Perchance to Dream"
-author = "or: Dust & the Fictive Problem"
+description = "or: Dust & the Fictive Problem"
 date = "2026-01-05"
 +++
-
-***Read this piece in good faith, or not at all.*** 
-
------
 
 Who are you, when the lights are out and nobody's watching?
 

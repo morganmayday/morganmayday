@@ -1,6 +1,6 @@
 +++
 title = "sharp edges"
-author = "ruminations on being a weapon"
+description = "ruminations on being a weapon"
 date = "2026-03-04"
 +++
 
@@ -8,13 +8,13 @@ date = "2026-03-04"
 
 -----
 
-i press on the disassembly plate, pull the slide off, set it down, and hand you the receiver. see, she can't shoot, taken apart like this. feel the contour of her grip, the featherlight weight without the slide. there's no need to worry, honey, you can't hurt me with her like this. hold her while we talk, yeah? holding a stripped-down receiver, there's this...vulnerability, almost, to the gun. inert, unable to fire, like a knife without a blade, a hand without movement, a voice without words. this thing that is made for the express purpose of violence and death, and she's naked and open under your hands, rendered near--but never wholly--harmless, while you care for her. can you feel it?
+i press on the disassembly plate, pull the slide off, set it down, and hand you the receiver. see, she can't shoot, taken apart like this. feel the contour of her grip, the featherlight weight without the slide. there's no need to worry, honey, you can't hurt me with her like this. hold her while we talk, yeah? holding a stripped-down receiver, there's this ... vulnerability, almost, to the gun. inert, unable to fire, like a knife without a blade, a hand without movement, a voice without words. this thing that is made for the express purpose of violence and death, and she's naked and open under your hands, rendered near--but never wholly--harmless, while you care for her. can you feel it?
 
 i've always loved weapons, you know. when i was little, it was swords. i loved the weight, the way they can feel like an extension of your body, the sharpness. i fenced saber, briefly, and did kendo for a while. money was an object, and the kendo group was solely men--i didn't do either as long as i wanted to. i grew a bit, and wanted to get into knives. i loved the power, in the palm of your hand, the utility of the cutting edge. 
 
-these days...some of it's guns, yeah. the undeniable capability, the bark and the bite, the weight of recoil reminding you that all that stands between your skin and an explosion is engineering and a little bit of metal. i like machines, a lot, and guns are very effective machines. i still like knives, but the winner of a knife fight bleeds out in the ambulance, rather than on the pavement. i like my victories to *last.*
+these days ... some of it's guns, yeah. the undeniable capability, the bark and the bite, the weight of recoil reminding you that all that stands between your skin and an explosion is engineering and a little bit of metal. i like machines, a lot, and guns are very effective machines. i still like knives, but the winner of a knife fight bleeds out in the ambulance, rather than on the pavement. i like my victories to *last.*
 
-people are so..._scared,_ of guns. sharpness without a blade. death without counterplay. they see the fact that, with something like the woman you hold, you have *power,* and they hate it when *nonpeople* have power. armed minorities, after all, are inherently harder to oppress. guns aren't the point, though. i'm talking about *sharpness.*
+people are so ... _scared,_ of guns. sharpness without a blade. death without counterplay. they see the fact that, with something like the woman you hold, you have *power,* and they hate it when *nonpeople* have power. armed minorities, after all, are inherently harder to oppress. guns aren't the point, though. i'm talking about *sharpness.*
 
 here, let me explain. let's talk about knives. you can put her down, if you want--do you want to? i don't mind either way, but it'll be easier to understand what i'm saying, with her in your hand. do what you'd like.
 

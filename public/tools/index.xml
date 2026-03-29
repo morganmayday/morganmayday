@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tools on Morgan Mayday</title>
-    <link>https://morganmay.day/tools/</link>
+    <link>http://localhost:1313/tools/</link>
     <description>Recent content in tools on Morgan Mayday</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Anticopyright. We all live in the public domain.</copyright>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://morganmay.day/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Feels Like Shit Checklist</title>
-      <link>https://morganmay.day/tools/flschecklist/</link>
+      <link>http://localhost:1313/tools/flschecklist/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://morganmay.day/tools/flschecklist/</guid>
+      <guid>http://localhost:1313/tools/flschecklist/</guid>
       <description>&lt;dl&gt;&#xA;&lt;dt&gt;If you feel like shit, do all of the following you haven&amp;rsquo;t:&lt;/dt&gt;&#xA;&lt;dd&gt;&#xA;&lt;p&gt;Today:&lt;br&gt;&#xA;☐ Take your meds&lt;br&gt;&#xA;☐ Have a meal&lt;br&gt;&#xA;☐ Go outside&lt;br&gt;&#xA;☐ Change clothes&lt;br&gt;&#xA;☐ Clean yourself up&lt;/p&gt;&#xA;&lt;/dd&gt;&#xA;&lt;dd&gt;&#xA;&lt;p&gt;In the past couple hours:&lt;br&gt;&#xA;☐ Drink water&lt;br&gt;&#xA;☐ Have a snack&lt;br&gt;&#xA;☐ Stretch&lt;br&gt;&#xA;☐ Change scenery&lt;/p&gt;&#xA;&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
     </item>
   </channel>
