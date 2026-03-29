@@ -6,6 +6,7 @@ author = 'Morgan Mayday'
 theme = 'risotto'
 pluralizeListTitles = false
 capitalizeListTitles = false
+enableInlineShortcodes = true
 copyright = "Anticopyright. We all live in the public domain."
 
 # Automatically add content sections to main menu
@@ -51,7 +52,7 @@ icon = "fa-solid fa-envelope"
 title = "email"
 url = "mailto:me@morganmay.day"
 
-[[params.socialLinks]]
-icon = "fa-brands fa-gitlab"
-title = "gitlab"
-url = "https://gitlab.com/labrysmoder"
+# [[params.socialLinks]]
+# icon = "fa-brands fa-discord"
+# title = "discord"
+# url = "https://discord.com/users/505883869434740758"
