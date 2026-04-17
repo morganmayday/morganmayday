@@ -4,7 +4,7 @@ author = "A."
 date = "2026-02-15"
 +++
 
-Required reading: [Not A Person](https://morganmay.day/grimoire/personhood).
+Required reading: [Not A Person](https://morganmay.day/essays/personhood).
 
 -----
 

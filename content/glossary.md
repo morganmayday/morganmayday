@@ -58,7 +58,7 @@ Thinking about thinking.
 Raw information. Can be filtered through the Art of recognition to begin constructing an intuitive model.
 
 ### The Door
-[There is a door.](/grimoire/there-is-a-door)
+There is a door.
 
 ### Full stack
 The whole of one's being. See also self-aggregate. Carries with it the connotation of true fullness, of being able to use the entirety of one's cognitive hardware, firmware, and software towards a goal.
