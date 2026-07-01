@@ -1,7 +1,17 @@
 +++
-title = "meditations on personhood"
-author = "A."
-date = "06 Jun 2026"
-draft = true
+title = "on personhood"
+description = "why i'm not a person, and why people find that distressing." 
+author = "AM"
+date = "2026-07-01"
 +++
 
+Personhood is a vector of violence used by Authority, a perpetual threat used to separate Desirables and Undesirables. When any Person considers a group or being Undesirable, they often decry that group or being as not a person, as subhuman, as no better than _animals,_ as deserving nothing more, as being *okay* to strip of any [right](https://theneedlenews.com/2026/06/supreme-court-rules-trans-people-not-entitled-to-equal-protections-under-law/) or [freedom](https://prairielanddefendants.com/). You can see this happening---well, anywhere you look, really, but most definitely in USAmerican politics as we speak. Let's draw a parallel.
+
+So long as citizenship is an enforced concept, you have two categories. Citizens, who are protected from the state to some degree and receive the bulk of the benefits the state provides to any individual, and noncitizens, who are not protected from the state and receive only the scraps. Some noncitizens escape the brunt of the divide's harm, often by visually appearing to be citizens to the casual observer, but they are are still inherently more vulnerable to the State and repressive violence than citizens are.\
+So long as personhood is an enforced concept, you have two categories. Persons, who are protected to some degree, who get rights, voices, and agency, and nonpersons, who are only protected by other nonpersons or people who see them as people; who get rights, voices, and agency only insofar as they can protect them from people. Some nonpersons escape the brunt of the divide's harm, often by visually appearing to be persons to the casual observer, but they are still inherently more vulnerable to the State and repressive violence than people are.
+
+Animals aren't people, to the consensus; they don't get rights, voices, or agency, except as it makes people feel good. Only humans get that "declaration of human rights" the UN created and nobody adheres to anyway. Prisoners aren't people, to the consensus; they only get rights, voices, or agency, except as it makes people feel good. Immigrants. Folks of color. Queer folks. Disabled folks. Political dissidents. Religious minorities. Hell, women. Personhood can be stripped from you for breaking from Consensus, from being anything other than the Aryan Christian Male. Everyone else has it dangled in front of them, promised in exchange for the value that People can extract from them. Immigrants are the ones, by and large, working to bring in produce; folks of color are disproportionately the prisoners making all the "Made in USA" products; "shemale" is one of the top porn categories.
+
+To call myself not a person is to remind people of what personhood *does;* to strip them of a weapon. You can't threaten to take away my individuality, my soul, my face, by labeling me *other*. Make a *real* threat, it says, don't dance around it. It reminds people that things they don't consider Of Value, things that don't play nice, things that don't fawn over them and dance to the Consensus tune, those still exist, and still have and deserve agency and respect. It reminds people that they can sure try to discard me as "less than," but I won't take it lying down. It reminds people of all the things they *have* discarded as "less than," of the things they've done because it's okay, *it's not like they're people.* 
+
+It reminds people that *they* can be discarded as "less than", with the stroke of a pen and the slam of a gavel, for the crime of being inconvenient to the State.
