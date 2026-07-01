@@ -8,7 +8,7 @@ I can't see _the line._
 
 because there is, right? there _is_ some line, some sequence of events and actions, that I can take, that I can advocate, to make a Better World. I believe that; [I have to believe that.](/strategy/for-the-dying-future)
 
-but I can't *see* it, can't hold it all in my mind at once, picture what needs to be done. and that scares me. I lie awake, some nights, staring at the wall, asking--*what should I do? What can I do?*
+but I can't *see* it, can't hold it all in my mind at once, picture what needs to be done. and that scares me. I lie awake, some nights, staring at the wall, asking---*what should I do? What can I do?*
 
 and more and more I look at the world and I see _horror,_ and I feel the razor-wire noose tighten. transgender women in prison are raped so often it's a *near-certainty*. they want to outlaw adult trans care. they've just legalized state-level bans as i write this. you can see *their* line, here, right? forever war on foreign soil and the home front, the elimination of minorities except as at best slave labor, the panopticon watching with a little jesus sticker on the server rack.
 

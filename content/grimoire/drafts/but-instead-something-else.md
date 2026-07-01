@@ -2,6 +2,7 @@
 title = "but, instead, something else."
 author = "A."
 date = "2026-02-15"
+draft = true
 +++
 
 Required reading: [Not A Person](https://morganmay.day/essays/personhood).

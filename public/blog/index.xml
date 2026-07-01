@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>blog on Morgan Mayday</title>
+		<link>https://morganmay.day/blog/</link>
+		<description>Recent content in blog on Morgan Mayday</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Anticopyright. We all live in the public domain.</copyright>
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://morganmay.day/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>site retune --- 01/07/2026</title>
+				<link>https://morganmay.day/blog/01072026/</link>
+				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://morganmay.day/blog/01072026/</guid>
+				<description>&lt;p&gt;&amp;ldquo;holy fuck you CAN do emdashes in markdown&amp;rdquo;&lt;br&gt;&#xA;&amp;mdash; me, thirty minutes ago, about to enter a perfectionist episode&lt;/p&gt;&#xA;&lt;p&gt;anyways. i&amp;rsquo;ve been thinking about like. ideological coherence, and linguistic coherence, and how my website does not further either of those goals. my old glossary page (yes, it&amp;rsquo;s old now, i&amp;rsquo;m getting rid of it,) was&amp;hellip;would have been &lt;em&gt;so&lt;/em&gt; much better served by me just being clear and letting context do the rest.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

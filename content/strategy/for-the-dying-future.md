@@ -11,15 +11,15 @@ I stop laughing, say, "no, really," finish pouring my drink and sit down across 
 
 The concept of a probability well is simple. When X type of thing happens, it makes it easier for X type of thing to happen, which makes it easier for X type of thing to happen, which et cetera et cetera et cetera you get the gist. 
 
-The example I always use is what I call the [Abyss](/glossary#abyss), the entropic probability well that ends in grey goo or nuclear winter or. The more violence there is, the more violence there is, the more violence there is, fill in whatever kinds of violence ad infinitum. When people talk about a vicious cycle, they're talking about the Abyss.
+The example I always use is what I call the Abyss, the entropic probability well that ends in grey goo or nuclear winter or. The more violence there is, the more violence there is, the more violence there is, fill in whatever kinds of violence ad infinitum. When people talk about a vicious cycle, they're talking about the Abyss.
 
 "Hang on," you say, because you've talked to me before and you know I have a vehemence in my heart for turning the other cheek, and I hold up a finger. We'll get there, promise, just bear with me.
 
-The Abyss is the gate to a thousand thousand dead futures, and it _is_ a thousand thousand dead futures. Those who seek a dead future--even and especially those who seek a dead future they can call _theirs,_ be it Stepford Wives or Big Brother or the Aryan Dream--are ruled by fear.
+The Abyss is the gate to a thousand thousand dead futures, and it _is_ a thousand thousand dead futures. Those who seek a dead future---even and especially those who seek a dead future they can call _theirs,_ be it Stepford Wives or Big Brother or the Aryan Dream---are ruled by fear.
 
 That's the trick, you know, of fascism; to paint your enemy as impossibly powerful and hopelessly weak. They need believe you lesser so they can loathe you, and impossibly powerful so they can fear you. 
 
-To paint me as hopelessly weak is a trick a fascist cannot play on themself if they have spoken to me. "A woman", "a fag", "a vegan", those traits are ones that they cannot make outweigh "if I tried to beat her to death, she would kill me". I am not afraid of self-defense. I have no moral compunctions about standing my ground, and I have the toolkit to do so. To turn the other cheek is to refuse [counterplay](/glossary#counterplay) as Beneath You and tacitly permit violence against you.
+To paint me as hopelessly weak is a trick a fascist cannot play on themself if they have spoken to me. "A woman", "a fag", "a vegan", those traits are ones that they cannot make outweigh "if I tried to beat her to death, she would kill me". I am not afraid of self-defense. I have no moral compunctions about standing my ground, and I have the toolkit to do so. To turn the other cheek is to refuse counterplay as Beneath You and tacitly permit violence against you.
 
 And violent counterplay, right, violent self-defense is still violence, and I fight for a future where violence, _all_ violence, is dead and composted, and that sounds like a contradiction but you've got to remember: _**the world where it dies on its own is the world where there is nothing left for it to consume.**_
 
@@ -35,6 +35,6 @@ They are afraid, still, that we can win. Yes, they kill us! Yes, they rape and m
 
 The trick of fascism is to portray their enemies as impossibly strong and hopelessly weak. I will not do that. I will simply be honest. They are strong. They have resources. We are _deep_ in this probability well, dear, and it's going to take a lot of work to get out. They believe we can get out. To believe that we can't is to knock over our king and shoot ourselves in the head.
 
-So I wake up every day, and I talk to my friends, and I make art, and I tell stories, and I fight for a blooming future, and I will win. There is no future where the Abyss wins, because we are _awake,_ now, me and you and everyone out there! The lovers, the dreamers, and me, and the signal's going strong, my dear, we're a long way out but we're dreaming with our eyes open and even if they could kill us all their children would invent us from first principles! They crush expression where they can because they know *hope is what kills them,* and even if they crush hope, *all they have done is set us back!*
+So I wake up every day, and I talk to my friends, and I make art, and I tell stories, and I fight for a blooming future, and I will win. There is no future where the Abyss wins, because we are _awake,_ now, me and you and everyone out there! The lovers, the dreamers, and us, my dear, and we're a long way out but we're dreaming with our eyes open and even if they could kill us all their children would invent us from first principles! They crush expression where they can because they know *hope is what kills them,* and even if they crush hope, *all they have done is set us back!*
 
 I finish my drink. "So yeah," I say, "I'd say I'm a realist."
