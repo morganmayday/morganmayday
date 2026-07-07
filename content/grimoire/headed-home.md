@@ -18,7 +18,7 @@ My eyes go back to the road before I respond. "For now," I settle on, "yeah."
 
 "Those'll kill you, you know," I note.
 
-"not as fast as the stress," Adelaide murmurs, completing the couplet of our usual debate; blows the smoke out the window again. 
+"Not as fast as the stress," Adelaide murmurs, completing the couplet of our usual debate; blows the smoke out the window again. 
 
 Silence, between us, for a minute. The hum of the road, the buzz of the stereo, the whistle of the wind past the open windows.
 
