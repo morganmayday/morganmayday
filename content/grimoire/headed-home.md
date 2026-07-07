@@ -40,6 +40,6 @@ I don't say anything, but she can feel the knot in my chest loosen anyways. Even
 
 The chorus kicks in, and she leans her head back and sings along, and for the first time all night, I smile.
 
-*"ain't that the life! / she's got it made! / her head in the sand / her guitar in the shade / rambling beauty, she sang to me / was she on my mind...or on the TV? / yes, she's on my mind...come from the TV"*
+*"and we sing ain't that the life! / she's got it made! / her head in the sand / her guitar in the shade / rambling beauty, she sang to me / was she on my mind...or on the TV? / yes, she's on my mind...come from the TV..."*
 
 and, together, we keep towards our destination.
