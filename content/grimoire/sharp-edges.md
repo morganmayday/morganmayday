@@ -2,6 +2,7 @@
 title = "sharp edges"
 description = "ruminations on being a weapon"
 date = "2026-03-04"
+author = "AM"
 +++
 
 [Estimates](https://web.archive.org/web/20260303233345/https://ammo.com/articles/how-many-gun-owners-in-america) put the number of civilian-owned firearms in the US at 500 million. The US population is, at time of writing, estimated at around 342 million bodies.
