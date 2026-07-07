@@ -26,15 +26,15 @@ Silence, between us, for a minute. The hum of the road, the buzz of the stereo, 
 
 "Mm." I remember. "Dead by sixteen, then dead by seventeen, then dead by eighteen..."
 
-"it's 2027 next year. isn't that fucked up?" It drums its fingers on the window edge. "I remember 2012," she says, in that almost-afterthought way of hers. "the terror, the knowledge that the world was going to end by the end of the year. I feel that now, too."
+"It's 2027 next year. isn't that fucked up?" It drums its fingers on the window edge. "I remember 2012," she says, in that almost-afterthought way of hers. "The terror, the knowledge that the world was going to end by the end of the year. I feel that now, too."
 
 "Not as strong, I hope." It had cried itself to sleep, torn itself apart, been *so scared* that everything was just going to up and end before it even got to live. If it's been---well, it's smoking again, isn't it? I sigh. "...this time, we can do something."
 
-"yeah." It exhales, stubs the cigarette out in the makeshift ashtray in the passenger arm. "...yeah. it feels---"
+"Yeah." It exhales, stubs the cigarette out in the makeshift ashtray in the passenger arm. "...yeah. it feels---"
 
 "Less inevitable?" I supply. It nods. 
 
-"like we can actually *do something.* sure, climate change has fucked us, sure, the government wants us dead, but I don't feel fucking *helpless.*"
+"Like we can actually *do something.* sure, climate change has fucked us, sure, the government wants us dead, but I don't feel fucking *helpless.*"
 
 I don't say anything, but she can feel the knot in my chest loosen anyways. Even when she loses hope, she doesn't lose that *will*, but...the world is brighter, with her hope in it.
 
