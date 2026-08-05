@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://morganmay.day/grimoire/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/grimoire/summer-heat/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://morganmay.day/essays/</loc>
     <lastmod>2026-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://morganmay.day/grimoire/</loc>
-    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://morganmay.day/grimoire/lakeside-afternoon/</loc>
-    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/</loc>
     <lastmod>2026-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/essays/sobriety/</loc>
@@ -46,7 +49,11 @@
   </url><url>
     <loc>https://morganmay.day/404.html</loc>
   </url><url>
+    <loc>https://morganmay.day/reading/_reading/</loc>
+  </url><url>
     <loc>https://morganmay.day/categories/</loc>
+  </url><url>
+    <loc>https://morganmay.day/reading/</loc>
   </url><url>
     <loc>https://morganmay.day/tags/</loc>
   </url>
