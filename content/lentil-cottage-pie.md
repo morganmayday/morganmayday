@@ -5,14 +5,14 @@ description = "Congratulations! You found one of the hidden recipes on my site. 
 
 For the filling:
 
-    - Olive oil (3 tbsp) – For softness and richness. Add more if your pan feels dry.
-    - Onions + garlic – Cook them down properly—they’re the flavour base.
-    - Carrots + swede – Chopped small so they soften with the lentils. Adds subtle sweetness and depth.
-    - Red lentils (125g) – Quick-cooking and thickening. No need to pre-soak.
-    - Plum tomatoes (1 tin) – Break them up with your spoon—they give more flavour than chopped ones.
-    - Sun-dried tomato paste (1 tbsp) – A punchy little cheat that makes it taste slow-cooked.
-    - Vegetable stock (350ml) – Helps the lentils cook and blend. Low-salt works best so you can season to taste.
-    - Spinach (85g) – For a bit of green and freshness. Stir in right at the end.
+  - Olive oil (3 tbsp) – For softness and richness. Add more if your pan feels dry.
+  - Onions + garlic – Cook them down properly—they’re the flavour base.
+  - Carrots + swede – Chopped small so they soften with the lentils. Adds subtle sweetness and depth.
+  - Red lentils (125g) – Quick-cooking and thickening. No need to pre-soak.
+  - Plum tomatoes (1 tin) – Break them up with your spoon—they give more flavour than chopped ones.
+  - Sun-dried tomato paste (1 tbsp) – A punchy little cheat that makes it taste slow-cooked.
+  - Vegetable stock (350ml) – Helps the lentils cook and blend. Low-salt works best so you can season to taste.
+  - Spinach (85g) – For a bit of green and freshness. Stir in right at the end.
 
 For the mash, use 900g smooth potatoes. Floury, not waxy.
 
@@ -27,7 +27,7 @@ For the mash, use 900g smooth potatoes. Floury, not waxy.
 5) Assemble + bake – Spread mash over the cooled filling. Rough it up with a fork for crispy peaks. Bake at 200°C (180°C fan) for 30–40 minutes until golden and bubbling.
 
 ### Serving:
-Fridge – Keeps 4 days. Cover tightly.
-Freezer – Cool fully, then freeze in portions for up to 3 months. I freeze after assembling but before baking.
-Reheat – From fridge: 180°C oven, 20–25 mins. From frozen: thaw overnight, then reheat as above.
+Fridge – Keeps 4 days. Cover tightly.\
+Freezer – Cool fully, then freeze in portions for up to 3 months. I freeze after assembling but before baking.\
+Reheat – From fridge: 180°C oven, 20–25 mins. From frozen: thaw overnight, then reheat as above.\
 Serve with – Steamed greens, buttered peas, or a mustardy green salad.
