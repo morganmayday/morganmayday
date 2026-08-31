@@ -20,8 +20,7 @@ With thanks to velvetnothing, whose annotated copy I read, & morrigan, who was t
 
 I have a particular interest in the transmission of ideas. If you've read my work, you could probably tell that. When I saw the cover of _Antimemetics,_ I was instantly interested---especially since there are some ideas I've struggled to spread, and if there was insight, hey, why not? Before reading _Antimemetics,_ I knew nothing about the author or the text, save the title, and that a friend thought there was some intellectual cowardice going on.
 
-I have come to agree with that assessment. While Asparouhova has some very good insights into the ideas that do and do not spread, she shies away from naming what, exactly, those ideas are. When she speaks of the ideas of fascists, she does not discuss the _content_ of the ideas, merely that they are, quote, "taboo". She pretends that there is a moral neutrality to these ideas. She pretends, in fact, that they have no real impact.
-
+I have come to agree with that assessment. While Asparouhova has some very good insights into the ideas that do and do not spread, she shies away from naming what, exactly, those ideas are. When she speaks of the ideas of fascists, she does not discuss the _content_ of the ideas, merely that they are, quote, "taboo". She pretends that there is a moral neutrality to these ideas. She pretends, in fact, that they have no real impact. The most charitable possible interpretation of this is that this is intellectual cowardice.
 
 
 ## A "Brief" Digression: Idea Laundering, Just Asking Questions, & the Nazi Bar
@@ -111,9 +110,13 @@ meme (ex. viral videos, slang, norms) as low impact high transmissibility --- bi
 
 "[Supermemes] may look and act like interesting ideas, but they are primarily selfish, doing whatever it takes to prolong their existence. Supermemes are like catnip for hordes of creative and knowledge workers--technologists, academics, artists, activists. But they are intellectual sinkholes, vacuuming up every resource they can acquire, and when they take over a network, there is little attention left to focus on anything else." (93)
 
+"It helped that the people involved in Operation Warp Speed [the expedited pipeline for COVID vaccine research] were working towards a specific outcome, which---combined with the urgency of the pandemic---forced them to move out of the ideas world more quickly." (94) re: ideas to praxis pipeline
+
 ## Applied Anti/memetics
 
 Asparouhova does not seem to think this is applicable, except as a warning.
+
+"Supermemes have no intrinsic value except as an organizing tactic: as heartwrenching or alarming as they might be, we cannot let ourselves be swayed so easily. If we pledge our attention to every supermeme that comes our way, we will lose ourselves in the process." (95)
 
 
 ## Conclusion
