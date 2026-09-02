@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://morganmay.day/grimoire/divinity/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/grimoire/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://morganmay.day/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://morganmay.day/essays/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/essays/feeling-like-shit/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morganmay.day/grimoire/</loc>
-    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morganmay.day/grimoire/summer-heat/</loc>
     <lastmod>2026-08-05T00:00:00+00:00</lastmod>
