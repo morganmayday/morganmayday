@@ -56,7 +56,7 @@ A few days ago, I was talking to some friends about where I was with myself and 
 
 Have you ever been gripped by a work? Have you ever looked at something someone has said, with surely no way to know you would ever read it, and feel that you have been *seen?* Have you felt an author name what is happening, truly, and what you have done to yourself?
 
-> And so you have made your last hard pivot, and decay from agent into maintainer of a game that is a garden.
+> And so you have made your last hard pivot, and decay from agent into maintainer of a game that is a garden.\
 > [Ziz, Hero Capture](https://voidgoddess.org/ziz/hero-capture/)
 
 I have, in my projects and the way I've responded to criticism, done this to myself. I have become not a knife to be wielded by myself, but a set of pruning shears to be wielded by others. I have let my values become something I do not fight for, instead hoping to instill them in others. I have tried to make not change, but instead those who desire it. This has been a mistake.
