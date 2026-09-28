@@ -34,7 +34,7 @@ What I regret is that I made of them projects, and that I made of myself a mento
 
 ---
 
-I have spent a significant portion the last six years, give or take, writing a single tabletop roleplaying game lately called Kindling Age. It has been my primary project; a world, a game, and a story.
+I have spent a significant portion of the last six years, give or take, writing a single tabletop roleplaying game lately called Kindling Age. It has been my primary project; a world, a game, and a story.
 
 Within this project, there was a thing called the Garden. The Garden was, among other things, a metaphor for the game itself. It was meant to be a comment, a tongue-in-cheek look back at the camera, about the fact that Kindling Age was a game we were playing together. Those who inhabited it had problems, had varied ideals, had *flaws,* but were built to be...aspirational, in their ways: immortal anarchists who tried to course correct, to enable others, to build something new without taking the agency of those who had to live within it. At the same time, I cast them as [ramical](https://dark-fireside.xyz/glossary/ramical/), as stewards, as rule-makers.
 
