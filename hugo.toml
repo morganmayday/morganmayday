@@ -1,6 +1,5 @@
 baseURL = 'https://morganmay.day/'
-languageCode = 'en'
-DefaultContentLanguage = "en"
+locale = "en-us"
 title = 'Morgan Mayday'
 author = 'Morgan Mayday'
 theme = 'risotto'
