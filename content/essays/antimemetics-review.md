@@ -5,6 +5,8 @@ date = "2026-10-09"
 draft = false
 +++
 
+Note: pending followup. This is absolutely imperfect, but I needed to write it to get to specific thoughts for the future.
+
 With thanks to [velvetnothing](https://velvetnothing.nekoweb.org/direct.html), whose annotated copy I did not give back for several months after I said I would (sorry), & [morrigan](https://dark-fireside.xyz/), who was the second set of annotations in that book and the first reader of this piece.
 
 Unless otherwise noted, all page-numbered quotes are from the reviewed book.
