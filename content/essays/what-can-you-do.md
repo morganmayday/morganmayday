@@ -2,6 +2,7 @@
 title = "What can you do?"
 description = "Take your head out of the sand and stop panicking. We've got work to do." 
 author = "AM"
+draft = true
 date = "2026-07-07"
 +++
 

@@ -3,9 +3,7 @@ title = "Morgan Mayday"
 description = "Homepage"
 +++
 
-Welcome in, stranger! Grab something to drink, take a pomegranate seed or three, find a comfortable seat. We're telling stories, tonight.
-
-You can call me Morgan. I'm one of them it/its women. I talk about many things, all of which I expect you to approach in good faith---if you ain't going to, I presume you know how to close a browser tab. 
+Welcome in, stranger! You can call me Morgan. I'm one of them it/its women. I talk about many things, all of which I expect you to approach in good faith---if you ain't going to, I presume you know how to close a browser tab. 
 
 # Reviews
 
