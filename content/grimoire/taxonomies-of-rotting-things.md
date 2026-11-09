@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "taxonomies of rotting things"
 description = "ruminations on glossaries, names, & my past work"
 date = "2026-10-30"
